@@ -1,2 +1,2 @@
 # groupgit
-hello, readme
+hello world
