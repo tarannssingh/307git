@@ -1,2 +1,2 @@
 # groupgit
-hello world
+hi
